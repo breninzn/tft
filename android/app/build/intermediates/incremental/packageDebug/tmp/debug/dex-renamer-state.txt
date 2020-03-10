@@ -1,4 +1,4 @@
-#Mon Jul 15 23:12:16 BRT 2019
-base.0=C\:\\Users\\Nicolas\\Documents\\1\\tftgod\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+#Tue Mar 10 15:17:42 BRT 2020
+base.0=C\:\\Users\\breno\\Desktop\\tft\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex
